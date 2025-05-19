@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hudaib2009  
 - 👀 I’m interested in AI development, cybersecurity, and CTFs  
-- 🌱 I’m currently learning advanced penetration testing and malware analysis  
+- 🌱 I’m currently learning advanced penetration testing and AI developing  
 - 💞️ I’m looking to collaborate on CTF teams, AI security projects, and open-source tools  
 - 📫 Teams:  
   • [Jordansec on X](https://x.com/jordansecctf?lang=ar-x-fm)  
