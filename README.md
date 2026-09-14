@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hey there, I'm **[Your Name]** 
+#  Hey there, I'm **[Arataki]** 
 
 ### **Cybersecurity Enthusiast • Python Developer • Linux Tweaker**
 
@@ -69,6 +69,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.hudaib2009@gmail.com)
 
 </div>
