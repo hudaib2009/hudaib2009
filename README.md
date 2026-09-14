@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hey there, I'm **[Arataki]** 
+#  Hey there, I'm **Arataki** 
 
 ### **Cybersecurity Enthusiast • Python Developer • Linux Tweaker**
 
